@@ -11,14 +11,11 @@
 
 ## 🚀 Projects
 
-
-
-### 🔹 **Laptop Price Predictor**
+### 🔹 [Laptop Price Predictor](https://github.com/MridulMalvi/Laptop_Price_Prediction)
 A machine learning model that predicts laptop prices based on specifications like RAM, GPU, and brand.  
 **Tech Stack:** Python, Scikit-learn, Pandas, NumPy  
-🔗 GitHub: https://github.com/MridulMalvi/Laptop_Price_Prediction
 
-### 🔹 **SMS Spam Classifier]** 
+### 🔹 [SMS Spam Classifier](https://github.com/MridulMalvi/SMS_spam_Calssifier)
 A Natural Language Processing (NLP) model designed to detect and filter spam messages from legitimate text.  
 **Tech Stack:** Python, Scikit-learn, Pandas, NLTK, Jupyter Notebook
 
@@ -40,9 +37,6 @@ A Natural Language Processing (NLP) model designed to detect and filter spam mes
 - Solutions Architecture Virtual Simulation – AWS
 - Girlscript Summer of code Contibutor
 - Vice President, SkillSphere Club (MITS)  
-
-
----
 
 
 
