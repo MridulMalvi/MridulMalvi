@@ -29,7 +29,6 @@ A Natural Language Processing (NLP) model designed to detect and filter spam mes
 **Tools & IDEs**: Visual Studio Code, Git, GitHub, Colab  <br>
 **Database & Backend**: MySQL, MongoDB
 
-
 ---
 
 ## 🌟 Certifications & Extracurricular 
@@ -37,6 +36,3 @@ A Natural Language Processing (NLP) model designed to detect and filter spam mes
 - Solutions Architecture Virtual Simulation – AWS
 - Girlscript Summer of code Contibutor
 - Vice President, SkillSphere Club (MITS)  
-
-
-
