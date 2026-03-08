@@ -10,7 +10,6 @@
 ---
 
 ## 🚀 Projects
-
 ### 🔹 [Laptop Price Predictor](https://github.com/MridulMalvi/Laptop_Price_Prediction)
 A machine learning model that predicts laptop prices based on specifications like RAM, GPU, and brand.  
 **Tech Stack:** Python, Scikit-learn, Pandas, NumPy  
@@ -22,7 +21,6 @@ A Natural Language Processing (NLP) model designed to detect and filter spam mes
 ---
 
 ## 🧠  Skills
-
 **Programming Languages**: C++, Python, JavaScript, React <br>
 **Data science & ML**: AI, Machine Learning (ML), Neural Networks (NN), Data Analysis, NLP <br>
 **Core CS Concepts**: Data Structures, Algorithms, Object-Oriented Programming, Time and Space Complexity <br>
