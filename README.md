@@ -3,6 +3,7 @@
 🎓 *B.Tech in IT (Artificial Intelligence & Robotics)*  
 🏫[Madhav Institute of Technology & Science (MITS)](https://web.mitsgwalior.in/) <br>
 📍 Gwalior, Madhya Pradesh  
+ [🌐 Portfolio](mridulmalviwebprotfolio.vercel.app)
 📧 mridulmalvi669@gmail.com  | 
 📞 +91-9691802344  
 [🔗 LinkedIn](https://www.linkedin.com/in/mridul-malvi) • [💻 GitHub](https://github.com/MridulMalvi)
