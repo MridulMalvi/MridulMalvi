@@ -3,14 +3,15 @@
 🎓 *B.Tech in IT (Artificial Intelligence & Robotics)*  
 🏫[Madhav Institute of Technology & Science (MITS)](https://web.mitsgwalior.in/) <br>
 📍 Gwalior, Madhya Pradesh  
- [🌐 Portfolio](https://mridulmalviwebprotfolio.vercel.app/)<br>
-📧 mridulmalvi669@gmail.com  | 
+[🌐 Portfolio](https://mridulmalviwebprotfolio.vercel.app/)<br>
+📧 mridulmalvi669@gmail.com | 
 📞 +91-9691802344  
 [🔗 LinkedIn](https://www.linkedin.com/in/mridul-malvi) • [💻 GitHub](https://github.com/MridulMalvi)
 
 ---
 
 ## 🚀 Projects
+
 ### 🔹 [Laptop Price Predictor](https://github.com/MridulMalvi/Laptop_Price_Prediction)
 A machine learning model that predicts laptop prices based on specifications like RAM, GPU, and brand.  
 **Tech Stack:** Python, Scikit-learn, Pandas, NumPy  
