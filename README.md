@@ -9,16 +9,21 @@
 [🔗 LinkedIn](https://www.linkedin.com/in/mridul-malvi) • [💻 GitHub](https://github.com/MridulMalvi)
 
 ---
-
 ## 🚀 Projects
 
-### 🔹 [Laptop Price Predictor](https://github.com/MridulMalvi/Laptop_Price_Prediction)
-A machine learning model that predicts laptop prices based on specifications like RAM, GPU, and brand.  
-**Tech Stack:** Python, Scikit-learn, Pandas, NumPy  
+### 🔹 Rexona AI: Multi-Tool Intelligence Engine A private, local-first AI assistant that utilizes a multi-agent orchestration framework to provide intelligent document interaction and real-time utility.
 
-### 🔹 [SMS Spam Classifier](https://github.com/MridulMalvi/SMS_spam_Calssifier)
-A Natural Language Processing (NLP) model designed to detect and filter spam messages from legitimate text.  
-**Tech Stack:** Python, Scikit-learn, Pandas, NLTK, Jupyter Notebook
+Tech Stack: LangGraph, Streamlit, Ollama (Qwen2.5), FAISS, Nomic-Embed-Text.
+
+Key Features: Advanced RAG capabilities for PDF interaction, persistent chat threads, and a multi-agent toolset including real-time web search, financial data fetching, and a built-in calculator.
+
+### 🔹 Laptop Price Predictor A machine learning model that predicts laptop prices based on specifications like RAM, GPU, and brand.
+
+Tech Stack: Python, Scikit-learn, Pandas, NumPy
+
+### 🔹 SMS Spam Classifier A Natural Language Processing (NLP) model designed to detect and filter spam messages from legitimate text.
+
+Tech Stack: Python, Scikit-learn, Pandas, NLTK, Jupyter Notebook
 
 ---
 
