@@ -17,7 +17,7 @@ A private, local AI assistant that utilizes a multi-agent orchestration framewor
 Tech Stack: LangGraph, Streamlit, Ollama (Qwen2.5), FAISS, Nomic-Embed-Text.
 
 
-### 🔹 Laptop Price Predictor
+### 🔹Spec2Price
 A machine learning model that predicts laptop prices based on specifications like RAM, GPU, and brand.
 
 Tech Stack: Python, Scikit-learn, Pandas, NumPy
