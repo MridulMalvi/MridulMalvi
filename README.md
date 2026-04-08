@@ -17,7 +17,7 @@
 - 🎓 **Education:** Pursuing a B.Tech in Information Technology with a specialization in **Artificial Intelligence & Robotics** at [Madhav Institute of Technology & Science (MITS)](https://web.mitsgwalior.in/).
 - 📍 **Location:** Gwalior, Madhya Pradesh, India.
 - 💡 **Focus:** Building agentic AI workflows, machine learning models, and exploring the intersection of data science and web development.
-- 📞 **Contact:** +91-9691802344
+
 
 ---
 
@@ -34,14 +34,23 @@
 <p>
   <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=flat-square&logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-E34F26?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-00A67E?style=flat-square&logo=spacy&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white" />
+ 
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-121212?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-0073E6?style=flat-square" />
 </p>
 
 ### **Web Development & Databases**
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
@@ -55,7 +64,6 @@
 <p>
   <em>Data Structures & Algorithms • Object-Oriented Programming (OOP) • Time & Space Complexity</em>
 </p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -75,9 +83,9 @@
 ---
 
 ## 🌟 Certifications & Leadership
-
-- 🏆 **Data Analytics Job Simulation** – Deloitte
-- ☁️ **Solutions Architecture Virtual Simulation** – AWS
+- 🏆 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** – Oracle
+- 📊 **Data Analytics Job Simulation** – Deloitte
+- 📈 **Data Structures and Algorithms** – GeeksforGeeks
 - 💻 **Open Source Contributor** – GirlScript Summer of Code (GSSoC)
 - 🎤 **Vice President** – SkillSphere Club (MITS Gwalior)
 
