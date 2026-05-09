@@ -35,7 +35,7 @@ Built with `LangGraph` · `Ollama (Qwen2.5)` · `FAISS` · `Nomic-Embed-Text` ·
 
 ---
 
-### 🔹 [SMS Spam Classifier](https://github.com/MridulMalvi/sms-spam-classifier)
+### 🔹 [SMS Spam Classifier](https://github.com/MridulMalvi/SMS_spam_Calssifier.git)
 > Real-time NLP web app that detects spam messages with high precision using classical ML — and honestly documents where bag-of-words falls short.
 
 Built with `Python` · `Scikit-learn` · `NLTK` · `Streamlit`
