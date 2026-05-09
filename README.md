@@ -1,93 +1,115 @@
 <div align="center">
-  <h1>Hi there, I'm Mridul Malvi 👋</h1>
-  <h3>🚀 AI & Robotics Enthusiast | B.Tech in IT @ MITS Gwalior</h3>
-  <p>Passionate about building intelligent systems, full-stack applications, and pushing the boundaries of AI/ML.</p>
 
-  <p align="center">
-    <a href="https://mridulmalviwebprotfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/mridul-malvi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:mridulmalvi669@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+# Mridul Malvi
+
+### Building intelligent systems at the intersection of AI, agents, and the web.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mridulmalviwebprotfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridul-malvi)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mridulmalvi669@gmail.com)
+
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 **Education:** Pursuing a B.Tech in Information Technology with a specialization in **Artificial Intelligence & Robotics** at [Madhav Institute of Technology & Science (MITS)](https://web.mitsgwalior.in/).
-- 📍 **Location:** Gwalior, Madhya Pradesh, India.
-- 💡 **Focus:** Building agentic AI workflows, machine learning models, and exploring the intersection of data science and web development.
+I'm a pre-final year **B.Tech IT (AI & Robotics)** student at **MITS Gwalior**, passionate about building things that actually work — from local-first multi-agent AI systems to production ML pipelines.
 
+- 🤖 Focused on **Agentic AI, RAG systems, and LLM-powered applications**
+- 🏢 Former **AI Intern @ Infosys Springboard** — built an ML pipeline with 97% accuracy
+- 🌱 Currently exploring **multi-agent orchestration** with LangGraph and tool-calling LLMs
+- 🎤 **Vice President** of SkillSphere Club at MITS | Open Source Contributor @ GSSoC
+- 📍 Gwalior, Madhya Pradesh, India
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Featured Projects
 
-### **Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
+### 🔹 [Rexona AI — Multi-Agent Intelligence Engine](https://github.com/MridulMalvi/rexona-ai)
+> A fully local, privacy-first AI assistant with multi-agent orchestration, RAG over documents, and persistent memory — zero external API costs.
 
-### **Data Science & Machine Learning**
-<p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=flat-square&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Learning-E34F26?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-00A67E?style=flat-square&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white" />
- 
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-121212?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-0073E6?style=flat-square" />
-</p>
+Built with `LangGraph` · `Ollama (Qwen2.5)` · `FAISS` · `Nomic-Embed-Text` · `Streamlit`
 
-### **Web Development & Databases**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-### **Tools & Core Concepts**
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-</p>
-<p>
-  <em>Data Structures & Algorithms • Object-Oriented Programming (OOP) • Time & Space Complexity</em>
-</p>
----
-
-## 🚀 Featured Projects
-
-### 🔹 [Rexona AI: Multi-Tool Intelligence Engine](#)
-> A private, local AI assistant that utilizes a multi-agent orchestration framework to provide intelligent document interaction and real-time utility.
-* **Tech Stack:** `LangGraph`, `Streamlit`, `Ollama (Qwen2.5)`, `FAISS`, `Nomic-Embed-Text`
-
-### 🔹 [Spec2Price](#)
-> A machine learning model that predicts laptop prices based on specifications like RAM, GPU, and brand, designed to help consumers make data-driven decisions.
-* **Tech Stack:** `Python`, `Scikit-learn`, `Pandas`, `NumPy`
-
-### 🔹 [SMS Spam Classifier](#)
-> A Natural Language Processing (NLP) model designed to detect and filter spam messages from legitimate text with high accuracy.
-* **Tech Stack:** `Python`, `Scikit-learn`, `Pandas`, `NLTK`, `Jupyter Notebook`
+**Highlights:** Semantic search over uploaded PDFs via PyPDFLoader + FAISS · Autonomous tool-calling LLM · Persistent conversational memory across 10+ concurrent threads via InMemorySaver
 
 ---
 
-## 🌟 Certifications & Leadership
-- 🏆 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** – Oracle
-- 📊 **Data Analytics Job Simulation** – Deloitte
-- 📈 **Data Structures and Algorithms** – GeeksforGeeks
-- 💻 **Open Source Contributor** – GirlScript Summer of Code (GSSoC)
-- 🎤 **Vice President** – SkillSphere Club (MITS Gwalior)
+### 🔹 [SMS Spam Classifier](https://github.com/MridulMalvi/sms-spam-classifier)
+> Real-time NLP web app that detects spam messages with high precision using classical ML — and honestly documents where bag-of-words falls short.
+
+Built with `Python` · `Scikit-learn` · `NLTK` · `Streamlit`
+
+**Highlights:** TF-IDF + Multinomial Naive Bayes on ~5,000 SMS messages · NLTK tokenization, stopword removal, Porter stemming · Deployed as live Streamlit app with Pickle-serialized model
+
+---
+
+### 🔹 [ExoHabitAI — Exoplanet Habitability Predictor](https://github.com/MridulMalvi/exohabitai)
+> ML web app that classifies whether an exoplanet could support life, trained on 9 planetary and stellar attributes with an interactive Plotly.js dashboard.
+
+Built with `Python` · `Scikit-learn` · `Flask` · `Plotly.js` · `Gunicorn`
+
+**Highlights:** Random Forest on imbalanced dataset (handled via imbalanced-learn) · Deployed REST API on Render · Real-time habitability gauges, radar charts, and decision boundary visualizations
+
+---
+
+## Tech Stack
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+---
+
+## Experience
+
+**Artificial Intelligence Intern** · Infosys Springboard *(Nov 2025 – Jan 2026)*
+- Engineered an end-to-end ML pipeline in Python (Scikit-learn + Pandas) delivering 97% accuracy in production
+- Applied Agile practices — sprint planning, iterative refinement — cutting dev cycle time by 30%
+- Drove 20% prediction performance gain through feature engineering and hyperparameter tuning
+
+---
+
+## Certifications
+
+| Certification | Issuer |
+|---|---|
+| Oracle Cloud Infrastructure 2025 AI Foundations Associate | Oracle |
+| IBM Data Science Professional Certificate | IBM |
+| Data Analytics Job Simulation | Deloitte |
+| Python for MLOps | Udemy |
+| Data Structures and Algorithms | GeeksforGeeks |
 
 ---
 
