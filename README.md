@@ -26,7 +26,7 @@ I'm a pre-final year **B.Tech IT (AI & Robotics)** student at **MITS Gwalior**, 
 
 ## Featured Projects
 
-### 🔹 [Rexona AI — Multi-Agent Intelligence Engine](https://github.com/MridulMalvi/rexona-ai)
+### 🔹 [Rexona AI - Multi-Agent Intelligence Engine](https://github.com/MridulMalvi/rexona-ai)
 > A fully local, privacy-first AI assistant with multi-agent orchestration, RAG over documents, and persistent memory — zero external API costs.
 
 Built with `LangGraph` · `Ollama (Qwen2.5)` · `FAISS` · `Nomic-Embed-Text` · `Streamlit`
@@ -44,7 +44,7 @@ Built with `Python` · `Scikit-learn` · `NLTK` · `Streamlit`
 
 ---
 
-### 🔹 [ExoHabitAI — Exoplanet Habitability Predictor](https://github.com/MridulMalvi/exohabitai)
+### 🔹 [ExoHabitAI - Exoplanet Habitability Predictor](https://github.com/MridulMalvi/exohabitai)
 > ML web app that classifies whether an exoplanet could support life, trained on 9 planetary and stellar attributes with an interactive Plotly.js dashboard.
 
 Built with `Python` · `Scikit-learn` · `Flask` · `Plotly.js` · `Gunicorn`
