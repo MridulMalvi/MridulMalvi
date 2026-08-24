@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a pre-final year **B.Tech IT (AI & Robotics)** student at **MITS Gwalior**, passionate about building things that actually work — from local-first multi-agent AI systems to production ML pipelines.
+I'm a final year **B.Tech IT (AI & Robotics)** student at **MITS Gwalior**, passionate about building things that actually work — from local-first multi-agent AI systems to production ML pipelines.
 
 - 🤖 Focused on **Agentic AI, RAG systems, and LLM-powered applications**
 - 🏢 Former **AI Intern @ Infosys Springboard** — built an ML pipeline with 97% accuracy
